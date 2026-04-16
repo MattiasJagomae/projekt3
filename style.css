@@ -3,4 +3,5 @@
 	height:600;
 	border:2px solid;
 	background: wheat;
-	}
+	display:flex;
+}
